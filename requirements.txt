@@ -1,0 +1,5 @@
+python
+
+pip install pandas
+pip install pyspellchecker
+pip install nltk
